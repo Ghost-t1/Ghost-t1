@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Developher  |  Errors Lover  | Life Enjoiner</h3>
+<h3 align="center">Developer  |  Errors Lover  | Life Enjoiner</h3>
 
 ###
 
